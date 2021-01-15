@@ -10,7 +10,7 @@ namespace Calculator
 
             Console.WriteLine("Calculator App\n\n");
 
-            Console.WriteLine("Enter first input");
+            Console.WriteLine("Enter first iinput");
             num1 = Convert.ToDouble(Console.ReadLine());
 
             Console.WriteLine("Enter second input");
